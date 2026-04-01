@@ -1,0 +1,8 @@
+interface:
+  display_name: "Dev Prompt Optimizer"
+  short_description: "Turn rough build ideas into executable prompts"
+  brand_color: "#2563EB"
+  default_prompt: "Use $dev-requirement-prompt-optimizer to turn my rough product idea into an implementation-ready development prompt."
+
+policy:
+  allow_implicit_invocation: true
